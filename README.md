@@ -35,6 +35,8 @@ This project helps understand seasonal temperature patterns and correlations bet
 - Libraries: Pandas, Matplotlib, Seaborn, NumPy  
 - Dataset: Delhi weather data from Kaggle
 
+❌⭕ Tic Tac Toe with AI (Python)
+
 - A simple console-based Tic Tac Toe game built in Python — featuring unbeatable AI opponent powered by the Minimax algorithm.
 
 🎮 Features
